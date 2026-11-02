@@ -1,6 +1,6 @@
 # Sound Range LED
 
-Firmware for a Particle Photon 2 that turns on an LED when sound is detected, built as a simple visual loudness cue for music production and mixing. Created for ENE202 (Designing Sustainable Systems), Lab 3/4/5 Report, Princeton University, Fall 2026.
+Firmware for a Particle Photon 2 that turns on an LED when sound is detected, built as a simple visual loudness cue for music production and mixing.
 
 ## Hardware
 - Particle Photon 2
